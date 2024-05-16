@@ -1,0 +1,14 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore compiled JavaScript files
+*.js
+
+# Ignore TypeScript configuration file
+tsconfig.json
+
+# Ignore any npm-debug.log files
+npm-debug.log
+
+# Ignore any local TypeScript build cache
+*.tsbuildinfo
